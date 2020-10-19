@@ -13,7 +13,20 @@
       "title": "and give me money"
     }
   ],
+  "users":[
+    {"id": 1,
+    "name": "Yurii",
+    "comment": "We in a bank"},
+    {"id": 2,
+    "name": "Vova",
+    "comment": "Hendehoh"},
+    {"id": 3,
+    "name": "Vika",
+    "comment": "Such a nice wether"}
+
+  ],
   "profile": {
     "name": "Yurii"
   }
+  
 }
